@@ -1,0 +1,3 @@
+g++ -o game game.cpp
+cp game.cpp ../waterTrading/game.cpp
+cp game ../waterTrading/game
